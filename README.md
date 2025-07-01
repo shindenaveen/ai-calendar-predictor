@@ -17,9 +17,3 @@ A Python GUI tool that predicts annual cycle calendar data using machine learnin
 - **Database:** MSSQL via pyodbc
 - **Others:** Pandas, NumPy, OpenPyXL, Logging
 
-## ⚙️ Setup Instructions
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/shindenaveen/ai-calendar-predictor.git
-   cd ai-calendar-predictor
